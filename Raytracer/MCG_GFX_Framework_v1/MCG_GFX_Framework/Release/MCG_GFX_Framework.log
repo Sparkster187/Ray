@@ -1,0 +1,44 @@
+﻿  Camera.cpp
+  Geometry.cpp
+  Main.cpp
+d:\raytracer\raytracer\mcg_gfx_framework_v1\mcg_gfx_framework\main.cpp(65): warning C4101: 'Size': unreferenced local variable
+  MCG_GFX_Lib.cpp
+d:\raytracer\raytracer\mcg_gfx_framework_v1\mcg_gfx_framework\mcg_gfx_lib.cpp(82): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+d:\raytracer\raytracer\mcg_gfx_framework_v1\mcg_gfx_framework\mcg_gfx_lib.cpp(82): warning C4244: 'argument': conversion from 'T' to 'Uint8', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\raytracer\raytracer\mcg_gfx_framework_v1\mcg_gfx_framework\mcg_gfx_lib.cpp(91): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+d:\raytracer\raytracer\mcg_gfx_framework_v1\mcg_gfx_framework\mcg_gfx_lib.cpp(91): warning C4244: 'argument': conversion from 'T' to 'Uint8', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Ray.cpp
+d:\raytracer\raytracer\mcg_gfx_framework_v1\mcg_gfx_framework\ray.cpp(6): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\raytracer\raytracer\mcg_gfx_framework_v1\mcg_gfx_framework\ray.cpp(7): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Tests.cpp
+  Tracer.cpp
+  Generating code
+  223 of 225 functions (99.1%) were compiled, the rest were copied from previous compilation.
+    79 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MCG_GFX_Framework.vcxproj -> D:\Raytracer\Raytracer\MCG_GFX_Framework_v1\Release\MCG_GFX_Framework.exe

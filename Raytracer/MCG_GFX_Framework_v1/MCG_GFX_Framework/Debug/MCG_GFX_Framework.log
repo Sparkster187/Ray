@@ -1,0 +1,5 @@
+﻿  Main.cpp
+d:\raytracer\raytracer\mcg_gfx_framework_v1\mcg_gfx_framework\main.cpp(65): warning C4101: 'Size': unreferenced local variable
+  Tracer.cpp
+  Generating Code...
+  MCG_GFX_Framework.vcxproj -> D:\Raytracer\Raytracer\MCG_GFX_Framework_v1\Debug\MCG_GFX_Framework.exe
